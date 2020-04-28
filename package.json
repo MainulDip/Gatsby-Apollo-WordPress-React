@@ -14,7 +14,11 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "dependencies": {
+    "@apollo/client": "^3.0.0-beta.44",
+    "@wordpress/block-library": "^2.16.1",
     "gatsby": "^2.20.25",
+    "gatsby-source-graphql": "^2.4.2",
+    "isomorphic-unfetch": "^3.0.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
   },
